@@ -63,4 +63,4 @@ Each character is implemented as a subclass of a base `character` class, demonst
 
 ## 👤 Author
 **Kevin Ruiz Arzate**  
-CS302 – Program 3
+Program 3
